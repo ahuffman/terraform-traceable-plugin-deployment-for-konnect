@@ -1,0 +1,10 @@
+*.tfvars
+/*.tfvars
+.terraform/
+.terraform
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+*.crt
+*.key
+kong_out
